@@ -1,0 +1,1198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sty",
+				"styles"
+			],
+			[
+				"all",
+				"all_students"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"ra",
+				"rails"
+			],
+			[
+				"class",
+				"class=\"btn"
+			],
+			[
+				"link",
+				"link_to	create a link	erb"
+			],
+			[
+				"item",
+				"itemAnswers"
+			],
+			[
+				"co",
+				"correctAnswer"
+			],
+			[
+				"cho",
+				"choices"
+			],
+			[
+				"answer",
+				"answerForward"
+			],
+			[
+				"question",
+				"questionForward"
+			],
+			[
+				"radio",
+				"radioText"
+			],
+			[
+				"inser",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"choice",
+				"choiceText"
+			],
+			[
+				"a",
+				"appendChild  (function)"
+			],
+			[
+				"parent",
+				"parentNode  (variable)"
+			],
+			[
+				"pre",
+				"prepend	.prepend"
+			],
+			[
+				"mar",
+				"margin:0"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"zi",
+				"z-index:   (property)"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"overflow-",
+				"overflow-x:   (property)"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"list-st",
+				"list-style-type:   (property)"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"position",
+				"position:relative"
+			],
+			[
+				"margin-",
+				"margin-top:   (property)"
+			],
+			[
+				"font",
+				"font-family:   (property)"
+			],
+			[
+				"top",
+				"topNav"
+			],
+			[
+				"nav",
+				"navBottom"
+			],
+			[
+				"foot",
+				"footerBackground"
+			],
+			[
+				"margin",
+				"margin-top:   (property)"
+			],
+			[
+				"ab",
+				"absolute  (value)"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"j",
+				"jPanelMenu"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"re",
+				"ready	document.ready - $(function()"
+			],
+			[
+				"background-",
+				"background-repeat:   (property)"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"z-i",
+				"z-index"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"text",
+				"text-align:   (property)"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"myWork",
+				"myWorkParagraph"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"photo",
+				"photoSwipe"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"engag",
+				"engagements"
+			],
+			[
+				"eng",
+				"engagementContent"
+			],
+			[
+				"row",
+				"row2"
+			],
+			[
+				"galler",
+				"galleryContainer"
+			],
+			[
+				"va",
+				"validetta"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"su",
+				"submit	submit"
+			],
+			[
+				"responsi",
+				"responsiveNav"
+			],
+			[
+				"social",
+				"socialMenu"
+			],
+			[
+				"face",
+				"facebook"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"bind",
+				"bind	jQuery"
+			],
+			[
+				"c",
+				"click	click"
+			],
+			[
+				"function",
+				"function"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"wedding",
+				"wedding_page"
+			],
+			[
+				"scrollUp",
+				"scrollUpRefresh"
+			],
+			[
+				"git",
+				"git-completion"
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"max-e",
+				"max-width:   (property)"
+			],
+			[
+				"max-",
+				"max-width:   (property)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"back",
+				"background-image:   (property)"
+			],
+			[
+				"ske",
+				"stylesheets/skeleton/base"
+			],
+			[
+				"partials",
+				"partials/skeleton"
+			],
+			[
+				"wit",
+				"width"
+			],
+			[
+				"padding-",
+				"padding-right:   (property)"
+			],
+			[
+				"non",
+				"nonRetinaSpriteImages"
+			],
+			[
+				"in",
+				"include	@include"
+			],
+			[
+				"Font",
+				"font-family:   (property)"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"toggle",
+				"toggleHolder"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"auto",
+				"auto"
+			],
+			[
+				"inline",
+				"inline-block  (value)"
+			],
+			[
+				"des",
+				"deskTopNavLink"
+			],
+			[
+				"type",
+				"type=  (attribute)"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"background-c",
+				"background-color:   (property)"
+			],
+			[
+				"background",
+				"background:   (property)"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"pst",
+				"position"
+			],
+			[
+				"frame",
+				"frameContainer"
+			],
+			[
+				"alert",
+				"alert()	Window"
+			],
+			[
+				"my",
+				"myString	Default"
+			],
+			[
+				"do",
+				"dominion	Default"
+			],
+			[
+				"temp",
+				"tempFunction	Default"
+			],
+			[
+				"fun",
+				"function	Default"
+			],
+			[
+				"nu",
+				"number	Default"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"lo",
+				"log()	Math"
+			],
+			[
+				"aler",
+				"alert()	Window"
+			],
+			[
+				"image",
+				"imageArray"
+			],
+			[
+				"change",
+				"changeImage"
+			],
+			[
+				"cange",
+				"changeImage"
+			],
+			[
+				"ch",
+				"changeImage"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"sig",
+				"sign_up_username"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"docu",
+				"document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 4825,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/firefox-preview.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"set syntax: css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ht",
+				"Tidy HTML"
+			],
+			[
+				"hips",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"set syntax",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax:ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cs",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"t",
+				"Tidy CSS (Low Compression)"
+			],
+			[
+				"c",
+				"Tidy CSS"
+			],
+			[
+				"tid",
+				"Tidy CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfr",
+				"SFTP: Browse Server…"
+			],
+			[
+				"se",
+				"SFTP: Edit Server…"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"confli",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pacs",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"ti",
+				"Tidy CSS"
+			],
+			[
+				"td",
+				"Tidy CSS"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"html",
+				"HTML Export: Current File"
+			],
+			[
+				"encod",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"syt",
+				"Set Syntax: CSS"
+			],
+			[
+				"s",
+				"Set Syntax: HTML5"
+			],
+			[
+				"oac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html5Snippet"
+			],
+			[
+				"pre",
+				"Preferences: Settings - User"
+			],
+			[
+				"pca",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 54.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/antonioortiz/Desktop/pinteresting/db/migrate/20140628121922_add_attachment_image_to_pins.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/models/pin.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/Gemfile",
+		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/bootstrap_and_customization.css.scss",
+		"/Users/antonioortiz/Desktop/pinteresting/app/assets/stylesheets/application.css",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/_form.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/index.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pins/new.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pins_controller.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/sessions/new.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/passwords/edit.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/registrations/edit.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/passwords/new.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/devise/registrations/new.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/layouts/application.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/layouts/_header.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pages/home.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/config/routes.rb",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/RubyFormat/README.md",
+		"/Users/antonioortiz/Desktop/rubyPractice/helloworld.rb",
+		"/Users/antonioortiz/Desktop/rubyPractice/studentApp/student.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/config/application.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/.gitignore",
+		"/Users/antonioortiz/Desktop/pinteresting/app/controllers/pages_controller.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/config/environments/development.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/config/environments/production.rb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/views/pages/about.html.erb",
+		"/Users/antonioortiz/Desktop/pinteresting/app/assets/javascripts/application.js",
+		"/Users/antonioortiz/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/antonioortiz/Desktop/pinteresting/README.md",
+		"/Users/antonioortiz/Dropbox/dynamicQuiz/index.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/quarterly_activation_materials_q2.html",
+		"/Users/antonioortiz/Dropbox/dynamicQuiz/js/script.js",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/quarterly_activation_materials.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/leadership_campaign_processing_schedules_es.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/leadership_campaign_processing_schedules.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/selling_calendars_SMO.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/career_career_archives.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/conference_calls.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/career_career_archives_es.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/SMO/sellingCalendars_SMO/selling_calendars_SMO.html",
+		"/Users/antonioortiz/Dropbox/developer_folder/Ex_Files_JS_Events/Excercise Files/01_03/working folder/events/index.html",
+		"/Users/antonioortiz/Dropbox/developer_folder/Ex_Files_JS_Events/Excercise Files/01_05/working folder/events/index.html",
+		"/Users/antonioortiz/Dropbox/developer_folder/Ex_Files_JS_Events/Excercise Files/01_04/working folder/events/index.html",
+		"/Users/antonioortiz/Dropbox/Ex_Files_JS_Events/Excercise Files/01_03/working folder/events/index.html",
+		"/Users/antonioortiz/Dropbox/developer_folder/jsPractice/jsPractice/stylesheets/layout.css",
+		"/Users/antonioortiz/Sites/_aortizNew_/app/_layouts/default.html",
+		"/Users/antonioortiz/Sites/_aortizNew_/sftp-config.json",
+		"/Users/antonioortiz/Sites/_aortizNew_/aortizrefresh/sftp-config.json",
+		"/Users/antonioortiz/Desktop/default.html",
+		"/Users/antonioortiz/Dropbox/developer_folder/jsPractice/jsPractice/index.html",
+		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/partials/_layout.scss",
+		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/main.scss",
+		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/partials/_typography.scss",
+		"/Users/antonioortiz/Sites/_aortizNew_/app/sass/partials/test.css",
+		"/Users/antonioortiz/Dropbox/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/antonioortiz/Sites/_aortizNew_/.tmp/css/main.css",
+		"/Users/antonioortiz/Sites/_aortizRefresh_/app/_layouts/default.html",
+		"/Users/antonioortiz/Sites/_aortizRefresh_/app/_layouts/alt_nav_refills/default.html",
+		"/Users/antonioortiz/Sites/_aortizRefresh_/bower.json",
+		"/Users/avonproducts/Desktop/bb_en.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/businessBuzz_es.html",
+		"/Users/avonproducts/Documents/ant_wip/htmlArchives/businessBuzz_en.html",
+		"/Users/avonproducts/Documents/ant_wip/dynamicQuiz/index.html",
+		"/Users/antonioortiz/Sites/dynamicQuiz/js/script.js",
+		"/Users/antonioortiz/Sites/dynamicQuiz/js/questions.json",
+		"/Users/antonioortiz/Sites/_aortizRefresh_/app/sass/partials/_typography.scss",
+		"/Users/antonioortiz/Sites/mirophotography/stylesheets/style.css",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/header.php",
+		"/Users/antonioortiz/Sites/mirophotography/index.php",
+		"/Users/antonioortiz/Sites/_test/_aortizRefresh_ /gulpfile.js",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/footer.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/style.css",
+		"/Users/antonioortiz/Sites/mirophotography/sass/vendor/_responsiveNav.scss",
+		"/Users/antonioortiz/Sites/mirophotography/sftp-config.json",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/skeleton_childtheme/index.php",
+		"/Users/antonioortiz/Sites/mirophotography/livereload.js",
+		"/Users/antonioortiz/Sites/newaortiz/index.html",
+		"/Users/antonioortiz/Sites/newaortiz/Rakefile.rb",
+		"/Users/antonioortiz/Sites/newaortiz/Gruntfile.js",
+		"/Users/antonioortiz/Sites/mirophotography/my_work.php",
+		"/Users/antonioortiz/Sites/mirophotography/sass/partials/skeleton/_layout.scss",
+		"/Users/antonioortiz/Sites/mirophotography/stylesheets/style_local.css",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-config-sample.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-config.php",
+		"/Users/antonioortiz/Sites/mirophotography/stylesheets/main.css",
+		"/Users/antonioortiz/Sites/mirophotography/sass/style.scss",
+		"/Users/antonioortiz/Sites/mirophotography/preMinified_html/index.php",
+		"/Users/antonioortiz/.Trash/index (original).php",
+		"/Users/antonioortiz/Sites/mirophotography/config.rb",
+		"/Users/antonioortiz/Sites/mirophotography/blog/prod_wp-config/wp-config.php",
+		"/Users/antonioortiz/Sites/mirophotography/js/my_work.min.js",
+		"/Users/antonioortiz/Sites/mirophotography/sftp-config-alt.json",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-settings.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/smpl_skeleton/index.php",
+		"/Users/antonioortiz/Sites/mirophotography/404.html",
+		"/Users/antonioortiz/Sites/mirophotography/.htaccess",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/style.css",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/oldStuff/index.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/index.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mirophotography/header.php",
+		"/Users/antonioortiz/Sites/mirophotography/js/combined.js",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/style.css",
+		"/Users/antonioortiz/Sites/mirophotography/oldFiles/weddings.html",
+		"/Users/antonioortiz/Sites/mirophotography/codekit-config.json",
+		"/Users/antonioortiz/Sites/mirophotography/mirophotography.sublime-workspace",
+		"/Users/antonioortiz/Sites/mirophotography/my_work.html",
+		"/Users/antonioortiz/Sites/mirophotography/wp_info.txt",
+		"/Users/antonioortiz/Sites/mirophotography/oldFiles/engagements.html",
+		"/Users/antonioortiz/Sites/mirophotography/oldFiles/christenings.html",
+		"/Users/antonioortiz/Sites/mirophotography/images/index.html",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/sidebar.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/index.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/header.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/functions.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/wp-content/themes/mytheme/footer.php",
+		"/Users/antonioortiz/Sites/mirophotography/blog/blog.php",
+		"/Users/antonioortiz/Sites/mirophotography/404/404_PROD.html",
+		"/Users/antonioortiz/Sites/mirophotography/404/404.html",
+		"/Users/antonioortiz/Sites/mirophotography/blog/blog.html",
+		"/Users/antonioortiz/Sites/mirophotography/images/photogLogoMedium@2x.png",
+		"/Users/antonioortiz/Sites/mirophotography/js/weddings_app.js",
+		"/Users/antonioortiz/Sites/mirophotography/engagements.html",
+		"/Users/antonioortiz/Sites/mirophotography/js/index_app.js",
+		"/Users/antonioortiz/Sites/mirophotography/weddings.html",
+		"/Users/antonioortiz/Sites/mirophotography/christenings.html",
+		"/Users/antonioortiz/Sites/mirophotography/sass/partials/skeleton/_skeleton.scss",
+		"/Users/antonioortiz/Sites/mirophotography/sass/partials/skeleton/_base.scss"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open files",
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"images",
+			"",
+			"images",
+			"",
+			"/Users/antonioortiz/Sites/newaortiz.dev/mysite",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Pin.all",
+			".css",
+			"checkbox",
+			"'",
+			"currentQuestion",
+			"currentAnswer",
+			"currentQuestion",
+			"poster",
+			"Q3_Rally_Presentation.ppt",
+			"<span class=\"note\">NEW</span>",
+			"appendChild",
+			"parentNode",
+			"appendChild",
+			"true",
+			"svgmin:dist",
+			"svgmin:dist\" (svgmin)",
+			"banner",
+			"aortiz",
+			"header",
+			"@include linear-gradient(to top, #fff, #e7dcc6);",
+			"\n/* Table of Content\n==================================================\n  #Site Styles\n  #Page Styles\n  #Media Queries\n  #Font-Face */\n\n$footer-height: 200px;\n\n\n\n/* #Universal Site Wide Styles\n================================================== */\n    html, body, div.jPanelMenu-panel {\n      height: 100%;\n      margin:0;\n      @include linear-gradient(to top, #fff, #e7dcc6);\n  }\n  div.jPanelMenu-panel {\n      margin-bottom: $footer-height;\n  }\n  /* #Header\n================================================== */\n  .header {\n      margin-top: 75px;\n  }\n\n\n/* #Footer\n================================================== */\n  .containerFooter {\n      min-height: 100%;\n      margin-bottom: -200px;\n  }\n  .containerFooter:after {\n      content:\"\";\n      display:block;\n  }\n  .containerFooter:after, .footerBackground {\n      border-top: 2px solid #81642f;\n      background-color: #442617;\n      height:$footer-height;\n      p {\n          text-align: center;\n          margin-top: 40px;\n          color: #FFC762;\n          text-shadow: 0px 1px 1px #523F1E;\n      }\n  }\n\n\n  /* #Menu/nav\n================================================== */\n\n  .menu_trigger {\n     visibility: hidden\n  }\n  #menu {\n        width:800px;\n        height:50px;\n        z-index: 50000;\n        display:block;\n        margin:0;\n        padding:0;\n        position:absolute;\n        top: 5px;\n    }\n      ul.nav {\n          display: block;\n          list-style-type: none;\n          position:relative;\n          width:300px;\n          padding:0;\n          li {\n              padding:0;\n              margin:0;\n          }\n          li a {\n              display: block;\n              float: left;\n              max-height: 30px;\n              border: none;\n              margin:0;\n              padding: 0;\n              width:100px;\n              border-bottom: none;\n              box-shadow: none !important;\n          }\n          & a:hover {\n              color:#fff;\n          }\n      }\n\n/* #Page Styles\n================================================== */\n\n/* #Media Queries\n================================================== */\n\n  /* Smaller than standard 960 (devices and browsers) */\n  @media only screen and (max-width: 959px) {\n}\n  /* Tablet Portrait size to standard 960 (devices and browsers) */\n  @media only screen and (min-width: 768px) and (max-width: 959px) {}\n\n  /* All Mobile Sizes (devices and browser) */\n  @media only screen and (max-width: 767px) {\n    \n    #jPanelMenu-menu {\n        background-color: #222222;\n        box-shadow: inset -20px 0px 15px #000000;\n        z-index: -1\n    }\n\n  /* #Menu/nav\n================================================== */\n     .menu_trigger {\n        visibility: visible\n    }\n     #menu{display:none}\n\n    .nav {\n     position:relative;\n     clear:both\n\n    \n\n     ul {\n         display: block;\n         list-style-type: none;\n         width: 500px;\n         padding:0;\n         height:100%;\n\n     }\n     li {\n     \n         padding:0;\n         margin:0;\n         border:0;\n         position:relative\n\n     }\n\n           li:last-child {\n          content:'';\n          top:104px;\n          width:100%;\n          border-bottom: 1px solid rgba(255, 255, 255, .1);\n          \n          position:absolute;\n          z-index: 1000\n     }\n\n     li a {\n        \n         display: block;\n         float:left;\n         max-height: 30px;\n         width: 100%;\n         margin:0;\n         padding: 20px 0 30px 15px;\n         text-align: left;\n         text-decoration: none;\n         font-size: 1.5em;\n         color: #aaa;\n        box-shadow: inset -2px 0px 15px rgba(0, 0, 0, 0.2);\n         text-shadow: 0 -1px rgba(0, 0, 0, 0.5);\n         border-bottom: 1px solid rgba(0, 0, 0, .2);\n         border-top: 1px solid rgba(255, 255, 255, .1);\n         // outline: solid black 1px;\n         box-sizing: border-box;\n     }\n  \n     & a:hover {\n         color:#fff;\n         text-shadow: 0 -1px rgba(0, 0, 0, 0.5);\n     }\n\n\n       \n }\n\n  }\n\n  /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */\n  @media only screen and (min-width: 480px) and (max-width: 767px) {}\n\n  /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */\n  @media only screen and (max-width: 479px) {}\n",
+			"jPanelMenu",
+			"javascript:void(0)",
+			"data",
+			"bar",
+			"r",
+			"key",
+			"'../../2AC78D",
+			"webfonts/",
+			"border-radius",
+			"#toggle, .nonRetinaSpriteImages-hamburger {\n",
+			" #nav {\n        width:100%;\n        margin:0;\n        background-image:url(\"../../../../images/debut_dark.png\");\n        border-bottom:1px solid rgba(0, 0, 0, 0.2);\n        border-top:1px solid rgba(255, 255, 255, 0.1)\n    }",
+			" ul.topNav",
+			"#nav .topNav .active a",
+			"../",
+			"logo",
+			"..",
+			"logo",
+			"img.scale-with-grid {\n    max-width:100%;\n    height:auto\nlogo",
+			"img.scale-with-grid {\n    max-width:100%;\n    height:auto\n.logo",
+			"img.scale-with-grid {\n    max-width:100%;\n    height:auto\n}",
+			".scale",
+			"scale",
+			"nonRetinaSpriteImages-photogLogoSmall",
+			"../",
+			"#nav a {\n",
+			"674em",
+			"675em",
+			"670em",
+			"#nav a ",
+			"myWorkParagraph",
+			"/../../../../",
+			"<script>",
+			"<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n<script>",
+			"<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n	</script>",
+			"<script>\n	document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')\n	</script>",
+			"style.css",
+			"span.missionStatement {\n.add-bottom\n",
+			"span.missionStatement {\ntextarea\n",
+			"span.missionStatement {\n",
+			"span.missionStatement {\nfont-family: 'BrandonText-Light',Helvetica,sans-serif;\nfont-size: 1.3em;\nfont-weight: bold;\nmargin: 10px auto;\ntext-align: center;\nbackground: rgba(191,191,191,0.2);\ndisplay: block;\npadding-top: 5px;\npadding-bottom: 10px;\npadding-left: 20px;\npadding-right: 20px;\ncolor: #fff;\nwidth: 75%;\n-webkit-border-radius: 3px;\n-moz-border-radius: 3px;\n-ms-border-radius: 3px;\n-o-border-radius: 3px;\nborder-radius: 3px;\n}",
+			"span.missionStatement\n",
+			"span.missionStatement\n\n",
+			".missionStatement\n\n",
+			"missionStatement\n\n",
+			"frmContact\n\n\n",
+			"#frmContact\n\n\n",
+			".#frmContact\n\n\n",
+			".success\n\n",
+			"a.specificLink\n",
+			"#nav.opened\n",
+			"nav li.active a",
+			".button-wrap\n",
+			"h3, h4, h5, h6",
+			".button.glow\n",
+			".slides, .flex-control-nav, .flex-direction-nav\n",
+			"flexslider",
+			".slides, .flex-control-nav, .flex-direction-nav\n",
+			"@media only screen and (max-width: 767px) {",
+			"@media only screen and (min-width: 768px) and (max-width: 959px)",
+			".clearfix",
+			".flex-control-thumbs .flex-active\n",
+			".button-flat-action.disabled\n",
+			".button-highlight\n",
+			".button-royal\n",
+			".button-flat.disabled\n",
+			"disabled",
+			"missionStatement",
+			"p.coreParagraph",
+			"  p.coreParagraph",
+			"fieldset",
+			"input[type=\"reset\"]",
+			"button",
+			"p a",
+			".container .offset-by-fifteen\n",
+			"#myWorkChristenings.scale-with-grid\n",
+			".main\n",
+			".row\n",
+			".flex-pauseplay span\n",
+			"input[type=\"reset\"], input[type=\"button\"]",
+			"input[type=\"checkbox\"]\n",
+			".container .two.columns\n",
+			".column.alpha, .columns.alpha\n",
+			"#myWorkChristenings.scale-with-grid\n",
+			"#myWorkEngagements\n",
+			".square\n",
+			"a.myWorkSpecificLink\n",
+			".column.omega, .columns.omega\n",
+			".column.alpha, .columns.alpha\n",
+			"#toggle #scrollUp, #toggle .nonRetinaSpriteImages-top, .nonRetinaSpriteImages-hamburger #scrollUp, .nonRetinaSpriteImages-hamburger .nonRetinaSpriteImages-top",
+			"#nav.opened\n",
+			"@media screen and (min-width: 40em) {",
+			"@media screen and (min-width: 0px) and (max-width: 767px)",
+			"nav li.active a",
+			".flex-disabled\n",
+			"* html .slides\n\n",
+			"html[xmlns] .slides\n\n",
+			".flex-pauseplay span\n\n",
+			".loading .flex-viewport\n\n",
+			"* html .slides\n",
+			"html[xmlns] .slides\n",
+			".flex-pauseplay span",
+			".flex-control-thumbs .flex-active",
+			".coreParagraph",
+			"@media only screen and (min-width: 768px) and (max-width: 959px)",
+			"@media only screen and (max-width: 767px)",
+			"row2",
+			"min-width: 40em"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'../../fonts/2AC78D",
+			"letter-spacing: 1px;",
+			"style.css",
+			"../images",
+			"blog.php",
+			"my_work.php",
+			"blog.php",
+			"blog/blog.html",
+			"",
+			"touche.min.js",
+			"myButtons",
+			"../fonts",
+			"nonRetinaSpriteImages-s5e06616baa.png",
+			"christeningImages",
+			"weddingImages",
+			"_bb",
+			"$",
+			"jjq.",
+			"<p class=\"coreParagraph\">",
+			"'../fonts/",
+			"'../",
+			"'../../",
+			"'../../fonts/",
+			"../../fonts/",
+			"../../fonts",
+			"'../fonts/",
+			"'../",
+			"'../../",
+			"../../../",
+			"../",
+			"../../fonts/",
+			"",
+			"@include typography(\"Brandon-Grotesque\",\"Brandon-Grotesque\");",
+			"@include typography(\"Brandon-Grotesque\");",
+			"../../",
+			"fonts",
+			"nonRetinaSpriteImages-s36282bfa87.png",
+			".nonRetinaSpriteImages-sprite",
+			"galleryImages",
+			"images",
+			"/",
+			"_images/_sliderContent",
+			"_sliderContent"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/script.js",
+					"settings":
+					{
+						"buffer_size": 4825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 687.0
+	},
+	"replace":
+	{
+		"height": 122.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_layo",
+				"app/sass/partials/_layout.scss"
+			],
+			[
+				"rea",
+				"Abban-jQuery-Picture-ca37fbc/README.md"
+			],
+			[
+				"",
+				".editorconfig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/antonio/Sites/mobileaortiz.dev/AortizMobile.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true
+}
