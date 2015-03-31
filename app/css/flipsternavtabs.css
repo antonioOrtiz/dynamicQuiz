@@ -1,0 +1,203 @@
+/* line 1, ../sass/flipsternavtabs.scss */
+.clearfix {
+  *zoom: 1;
+}
+
+/* line 5, ../sass/flipsternavtabs.scss */
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+/* line 10, ../sass/flipsternavtabs.scss */
+.clearfix:after {
+  clear: both;
+}
+
+/* line 13, ../sass/flipsternavtabs.scss */
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+
+/* line 20, ../sass/flipsternavtabs.scss */
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* @group flipster Navigation */
+/* line 29, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav {
+  display: block;
+  background: #da0d25;
+  height: 25px;
+  font-size: 0.0px;
+  margin: 0;
+  padding: 5px 5px 0;
+  text-align: justify;
+  margin-bottom: 52px;
+  position: relative;
+  border-bottom: solid 2px #da0d25;
+  list-style-type: none;
+}
+
+/* line 42, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+/* line 47, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav li {
+  display: inline-block;
+  font-size: 15px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+/* line 56, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category,
+.flipster .flipster-nav .no-category {
+  width: 25%;
+}
+
+/* line 60, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category-link,
+.flipster .flipster-nav .flip-nav-item-link {
+  display: block;
+  -ms-transition: all 100ms ease;
+  -webkit-transition: all 100ms ease;
+  -moz-transition: all 100ms ease;
+  -o-transition: all 100ms ease;
+  transition: all 100ms ease;
+}
+
+/* line 69, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category-link,
+.flipster .flipster-nav .no-category .flip-nav-item-link {
+  border: solid 2px transparent;
+  height: 23px;
+  line-height: 25px;
+  color: #ffffff;
+  padding: 1px 7px;
+  font-size: 0.8em;
+}
+
+/* line 78, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-current .flip-nav-category-link,
+.flipster .flipster-nav .no-category .flip-nav-current.flip-nav-item-link {
+  border-color: #da0d25;
+  border-bottom: none;
+  background: #ffffff;
+  color: #000000;
+}
+
+/* line 84, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category .flip-nav-items {
+  display: none;
+  position: absolute;
+  top: 27px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 10px 0;
+  height: 32px;
+}
+
+/* line 94, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category .flip-nav-items:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+/* line 99, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category .flip-nav-items .flip-nav-item-link {
+  padding: 5px 15px;
+  color: #da0d25;
+  font-family: Helvetica;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+/* line 106, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category .flip-nav-items .flip-nav-item-link.flip-nav-current {
+  background: #da0d25;
+  color: #FFF;
+}
+
+/* line 110, ../sass/flipsternavtabs.scss */
+.flipster .flipster-nav .flip-nav-category.flip-nav-current .flip-nav-items {
+  display: block;
+}
+
+/* @end */
+/* @group Previous & Next Buttons */
+/* line 117, ../sass/flipsternavtabs.scss */
+.flipster .flipto-prev {
+  position: absolute;
+  top: 30%;
+  z-index: 999;
+  display: block;
+  padding: 10px;
+  margin-top: 25px;
+  width: 23px;
+  height: 45px;
+  background: url("../images/flipsterNav/left_arrow.png") no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+}
+
+/* line 138, ../sass/flipsternavtabs.scss */
+/* line 132, ../sass/flipsternavtabs.scss */
+.flipster .flipto-next {
+  position: absolute;
+  top: 30%;
+  z-index: 999;
+  display: block;
+  padding: 10px;
+  margin-top: 25px;
+  width: 23px;
+  height: 45px;
+  background: url("../images/flipsterNav/right_arrow.png") no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+}
+
+/* line 147, ../sass/flipsternavtabs.scss */
+.flipster .flipto-prev:hover,
+.flipster .flipto-next:hover {
+  background-color: #FFF;
+  color: #da0d25;
+}
+
+/* line 151, ../sass/flipsternavtabs.scss */
+.flipster .flipto-prev {
+  left: 50px;
+}
+
+/* line 154, ../sass/flipsternavtabs.scss */
+.flipster .flipto-next {
+  right: 50px;
+}
+
+/* line 158, ../sass/flipsternavtabs.scss */
+.flipster {
+  overflow-x: visible;
+  max-width: 500px;
+}
+
+/* @end */

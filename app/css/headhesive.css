@@ -1,0 +1,127 @@
+/*----------------------------------------------------------------------------*\
+    Headhesive Specific Styles
+/*----------------------------------------------------------------------------*/
+
+/**
+ * Headhesive element clone
+ * > `clone` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          clone: 'banner--clone';
+ |      }
+ |  }
+ *
+ */
+
+.banner{
+  margin-top: -5px;
+  margin-left: 13px;
+  width:1200px;
+  height: 114px;
+  z-index: 50000000000;
+    -moz-box-shadow: 0px 2px 5px -2px #afaeae;
+    -webkit-box-shadow: 0px 2px 5px -2px #afaeae;
+    box-shadow: 0px 7px 3px -2px #afaeae
+
+
+}
+
+.headerBlk{
+  height:70px;
+  width:1200px;
+  background-color: black;
+}
+.headerGrey{
+  height:47px;
+  width:1200px;
+  background-color: #eeeeee;
+}
+
+.column{width:200px;height:47px;float:left;}
+
+h2{
+padding-top: 14px!important;
+font-family: 'Times New Roman', Times, serif!important;
+font-size: 18px!important;
+text-align: center!important;
+font-style: italic!important;
+color:#fff!important;
+}
+
+h3{
+padding-top: 3px!important;
+font-size: 14px!important;
+font-family: 'Times New Roman', Times, serif!important;
+text-align: center!important;
+font-style: italic!important;
+color:#000000!important;
+}
+
+
+
+
+
+
+.banner--clone {
+
+
+    /* Required styles */
+    position: fixed;
+    top: -5px;
+    left: 8px;
+    z-index: 50000000000;
+    -moz-box-shadow: 0px 2px 5px -2px #afaeae;
+    -webkit-box-shadow: 0px 2px 5px -2px #afaeae;
+    box-shadow: 0px 7px 3px -2px #afaeae;
+
+
+    /* Additional styles */
+
+    /* Translate -100% to move off screen */
+    -webkit-transform: translateY(-100%);
+        -ms-transform: translateY(-100%);
+            transform: translateY(-100%);
+
+    /* Animations */
+    -webkit-transition: all 300ms ease-in-out;
+       -moz-transition: all 300ms ease-in-out;
+            transition: all 300ms ease-in-out;
+
+}
+
+
+/**
+ * Headhesive stick
+ * > `stick` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          stick: 'banner--stick';
+ |      }
+ |  }
+ *
+ */
+.banner--stick {
+
+    /* Translate back to 0%; */
+    -webkit-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+            transform: translateY(0%);
+}
+
+
+/**
+ * Headhesive unstick
+ * > `unstick` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          unstick: 'banner--unstick';
+ |      }
+ |  }
+ *
+ */
+.banner--unstick {
+    /* Not required to use, but could be useful to have */
+}
